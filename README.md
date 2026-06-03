@@ -47,11 +47,8 @@ El sistema fue desarrollado como parte de mis pasantías en CORPOLARA, aplicando
 
 ### Login
 
-![Login](docs/login.png)
+![Login](docs/docs/images/SIGEVU Login.png)
 
-### Dashboard
-
-![Dashboard](docs/dashboard.png)
 
 ### Gestión de Beneficiarios
 
