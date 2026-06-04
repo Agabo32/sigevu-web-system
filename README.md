@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=🏠+SIGEVU;Sistema+Integral+de+Gestión;de+Viviendas" alt="Typing SVG" />
+<img src="https://github.com/Agabo32/sigevu-web-system/blob/main/docs/images/images-removebg-preview.png" alt="Typing SVG" />
 
 <br/>
 
